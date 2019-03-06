@@ -1,5 +1,7 @@
 # Boilerplate project
 
+**Credits**: [@stevenphaedonos](https://github.com/stevenphaedonos) 
+
 ## Running the application
 
 ### For development
